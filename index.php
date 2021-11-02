@@ -432,7 +432,7 @@
                             <h3>Follow Us:</h3>
                             <a href="https://www.facebook.com/kefassoftwares" class="facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                             <a href="https://twitter.com/kefassoftwares" class="twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                            <a href="https://github.com/TeamKefas/" class="github" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                            <a href="https://github.com/kefasin/" class="github" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
                             <!--<a href="#" class="google-plus"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                             <a href="#" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>-->
                         </div>
