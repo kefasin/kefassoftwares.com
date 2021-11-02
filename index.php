@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>Kefas</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+
+    <!-- Core Stylesheet -->
+    <link href="style.css" rel="stylesheet">
+
+    <!-- Responsive CSS -->
+    <link href="css/responsive/responsive.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <!-- Preloader Start -->
+    <div id="preloader">
+        <div class="loader">
+            <span class="inner1"></span>
+            <span class="inner2"></span>
+            <span class="inner3"></span>
+        </div>
+    </div>
+
+    <!-- Search Form Area -->
+    <!-- <div class="fancy-search-form d-flex align-items-center">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12"> -->
+                    <!-- Close Btn -->
+                    <!-- <div class="search-close-btn" id="closeBtn">
+                        <i class="ti-close" aria-hidden="true"></i>
+                    </div> -->
+                    <!-- Form -->
+                    <!-- <form action="#" method="get">
+                        <input type="search" name="fancySearch" id="search" placeholder="| Enter Your Search...">
+                        <input type="submit" class="d-none" value="submit">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- ***** Header Area Start ***** -->
+    <header class="header_area" id="header">
+        <div class="container-fluid h-100">
+            <div class="row h-100">
+                <div class="col-12 h-100">
+                    <nav class="h-100 navbar navbar-expand-lg align-items-center">
+                        <div class="navbar-brand">
+                            <a href="index.php">
+                                <!--<img class="logo" src="img/logo.png" alt="logo">-->
+                                <img class="logo-alt" src="img/logo-alt.png" alt="logo">
+                            </a>
+					    </div>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fancyNav" aria-controls="fancyNav" aria-expanded="false" aria-label="Toggle navigation"><span class="ti-menu"></span></button>
+                        <div class="collapse navbar-collapse" id="fancyNav">
+                            <ul class="navbar-nav ml-auto">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+                                </li>
+                                <!--
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="index.php">Home</a>
+                                        <a class="dropdown-item" href="static-page.html">Static Page</a>
+                                        <a class="dropdown-item" href="contact.html">Contact</a>
+                                    </div>
+                                </li>
+                                -->
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#about">About</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#contact">Contact</a>
+                                </li>
+                            </ul>
+                            <!-- Search & Shop Btn Area -->
+                            <!-- <div class="fancy-search-and-shop-area">
+                                <a id="search-btn" href="#"><i class="icon_search" aria-hidden="true"></i></a>
+                                <a id="shop-btn" href="#"><i class="icon_bag_alt" aria-hidden="true"></i></a>
+                            </div> -->
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ***** Header Area End ***** -->
+
+    <!-- ***** Hero Area Start ***** -->
+    <div class="fancy-hero-area bg-img bg-overlay animated-img" style="background-image: url(./img/background.jpg);">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-12">
+                    <div class="fancy-hero-content text-center">
+                        <!-- Video Overview -->
+                        <div class="navbar-brand-logo">
+                            <a href="index.php">
+                                <img class="logo-home" src="img/kefas2.gif" alt="logo">
+                                <img class="logo-home-alt" src="img/logo-alt.png" alt="logo">
+                            </a>
+					    </div>
+                        <h2>Get started, go live, ramp up, grow and expand</h2>
+
+                        <!--<a href="#" class="btn fancy-btn fancy-active">About Us</a>
+                        <a href="#" class="btn fancy-btn">Get Started!</a>-->
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ***** Hero Area End ***** -->
+
+    <!-- ***** Top Feature Area Start ***** -->
+    <div  class="fancy-top-features-area bg-gray">
+        <div class="container">
+            <div class="row is-flex">
+                <div class="col-12">
+                    <div class="fancy-top-features-content">
+                        <div class="row no-gutters">
+                            <div class="col-12  col-sm-4">
+                                <div class="single-top-feature">
+                                    <h5><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> <b>What do we do</b></h5>
+                                    <p>Kefas addresses your needs to 
+                                    rapidly and reliably implement your ideas 
+                                    on core desktop applications, enterprise 
+                                    systems or web backend systems.
+                                </p>
+                                
+                                </div>
+                            </div>
+                            <div class="col-12  col-sm-4">
+                                <div class="single-top-feature">
+                                    <h5><i class="fa fa-clock-o" aria-hidden="true"></i> <b>Expertise</b></h5>
+                                    <p>We have expertise in multiple technologies 
+                                    including C++, C#, Python, R, MySQL, SQL Server,
+                                     PostgreSQL etc. We focus on building high throughput low latency systems.
+                                    
+                                    </p>  
+                                </div>
+                            </div>
+                            <div class="col-12 col-sm-4">
+                                <div class="single-top-feature">
+                                    <h5><i class="fa fa-diamond" aria-hidden="true"></i> <b>Quality </b></h5>
+                                    <p>Kefas engineers are trained to rapidly 
+                                    acquire domain knowledge, even if new and complex,
+                                     to execute the best possible solutions for clients.
+                                      </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ***** Top Feature Area End ***** -->
+
+    <!-- ***** About Us Area Start ***** -->
+    <section id="about" class="fancy-about-us-area bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-6">
+                    <div class="about-us-text">
+                        <h3>About Us</h3>
+                        <p>Kefas Softwares Private Limited was founded in 2013 to 
+							create server side applications for clients, and so far 
+							we have helped many start-ups in the financial and engineering
+							 sector start or ramp up their operations. Founded by a highly 
+							 qualified team of engineers from some of the best engineering 
+							 institutions in India, with experience in varied domains, 
+							 we believe in always-on service and in standing by our clients to address 
+							 their most critical maintenance needs, as and when they need them. The one 
+							 thing we have the most in common with our clients, is a passion for innovation and excellence.
+                        </p>
+                        <!--<a href="#" class="btn fancy-btn fancy-dark">Read More</a>-->
+                    </div>
+                </div>
+
+                <div class="col-12 col-lg-6 col-xl-5 ml-xl-auto">
+                    <div class="about-us-thumb wow fadeInUp" data-wow-delay="0.5s">
+                        <img src="img/bg-img/about-1.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** About Us Area End ***** -->
+
+
+    <!-- ***** Blog Area Start ***** -->
+    
+    <section id="portfolio" class="fancy-blog-area section-padding-100-70">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-heading text-center">
+                        <h2>Featured Clients</h2>
+                        
+                    </div>
+                </div>
+            </div>
+
+            
+                <div class="row">
+                
+                <div class="col-12 col-md-6">
+                    <div class="single-blog-area wow fadeInUp" data-wow-delay="0.5s">
+                        <img src="img/qnect1.jpg" alt="">
+                        <div class="blog-content">
+                            <h4><a href="http://www.qnect.com/" target="_blank">Qnect</a></h4>
+                            <p>Qnect is creating a revolution in the construction industry with their ground 
+                            breaking cloud based solution, which automatically engineers/details connections between 
+                            structural elements (beams, girders etc), to generate the most appropriate connection element(shear plate, double angles etc..)
+                            </p>
+                            <p>A small team of Kefas engineers helps Qnect by playing an integral role in 
+                                creating the core engineering application in their enterprise system. 
+                                Kefas engineers works closely with strutural engineers from Qnect to 
+                                translate their strong domain knowledge in structural engineering to the actual application.
+                                
+                            </p>
+                            <a href="http://www.qnect.com/" target="_blank">Read more</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <div class="single-blog-area wow fadeInUp" data-wow-delay="0.6s">
+                        <img src="img/bestex.jpg" alt="">
+                        <div class="blog-content">
+                            <h4><a href="http://www.bestexresearch.com/" target="_blank">BestEx Research</a></h4>
+                            <p>BestEx Research Group provide institutional investor clients with
+										 solutions that help minimize their implementation and transaction
+										  costs by employing advanced broker-dealer neutral algorithms, 
+										  precise cost measurements and cutting-edge trading technology.
+										   These technologies help reduce the clients' transaction costs
+											and provide them with a level of transparency and analytics 
+											unmatched in the industry. Kefas with its strong background in trading and financial coding,
+										 play an integral role in developing their trading and market data 
+										 technologies and backend system.
+                                         <br><br></p>
+                            <a href="http://www.bestexresearch.com/" target="_blank">Read more</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+               
+                <div class="col-12 col-md-6">
+                    <div class="single-blog-area wow fadeInUp" data-wow-delay="0.7s">
+                        <img src="img/dqs.jpg" alt="">
+                        <div class="blog-content">
+                            <h4><a href="http://dqs.ch/" target="_blank">DQS Analytics</a></h4>
+                            <p>DQS Analytics provides clients with niche products and 
+                                innovative solutions in investment strategy and risk management 
+                                of global multi-asset portfolios. Using a blend of deep market
+                                    experience and advanced quantitative methods, the services provided 
+                                    by DQS are geared towards robust, through-the-cycle, long term performance 
+                                    with particular attention paid towards market and portfolio dynamics in crisis
+                                    periods.</p>
+
+                            <p>From market data collection to automated trading platform to
+                                    portfolio optimization algorithms, Kefas with its strong 
+                                    knowledge of financial domain, plays an integral role in 
+                                    developing technology infrastructure for DQS Analytics.
+                                    </p>
+                            <a href="http://dqs.ch/" target="_blank">Read more</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-12 col-md-6">
+                    <div class="single-blog-area wow fadeInUp" data-wow-delay="0.8s">
+                        <img src="img/optionautomator.jpg" alt="">
+                        <div class="blog-content">
+                            <h4><a href="https://www.optionautomator.com/" target="_blank">Option Automator</a></h4>
+                            <p>Option Automator aims to provide retail clients with hedge-fund quality 
+                                options trading tools that give individuals with the same competitive
+                                    edge currently available only to large scale traders</p>
+
+                            <p>A team of Kefas engineers helps Option Automator by playing
+                                    an integral role in creating their 'Brutus' options screener,
+                                    which sets itself apart from other options screeners by focusing
+                                    on complex ranking algorithms rather than on binary filtering.
+                                    Kefas engineers work closely with the OptionAutomator team to 
+                                    create their backend application server that implements their 
+                                    advance decision making mathematics.</p>
+
+                            </br>
+                        
+                            <a href="https://www.optionautomator.com/" target="_blank">Read more</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+        </div>
+    </section>
+    
+    <!-- ***** Blog Area End ***** -->
+
+    <!-- Our clients area 
+
+    <section id="portfolio" class="fancy-blog-area section-padding-100-70">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-heading text-center">
+                        <h2>Our Clients</h2>
+                        
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="row">
+                
+                <div class="col-12 col-md-3 text-center">
+                    
+                        <a href="http://www.qnect.com/" target="_blank"><img src="img/qnect_round.png" alt=""></a>
+                    
+                </div>
+                
+                <div class="col-12 col-md-3 text-center" >
+                    
+                        <a href="http://bestexresearch.com/" target="_blank" ><img src="img/bestex_round.png" alt=""> </a>
+                    
+                </div>            
+                <div class="col-12 col-md-3 text-center">
+                    
+                        <a href="http://dqs.ch/" target="_blank" ><img src="img/dqs_round.png" alt=""> </a>
+                   
+                </div>
+                
+                <div class="col-12 col-md-3 text-center">
+                    
+                        <a href="https://www.optionautomator.com/" target="_blank" ><img src="img/option_round_typo.png" alt=""></a>
+                    
+                </div>
+            </div>
+            
+            
+        </div>
+    </section>
+
+    
+   our clients area end -->
+    
+
+    <!-- ***** CTA Area Start -->
+    <section class="fancy-cta-area bg-img bg-overlay section-padding-100" style="background-image: url(img/bg-img/hero-3.jpg)">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="cta-content text-center">
+                        <h2>Ready To Discuss Your Project?</h2>
+                        <p>There are many ways to contact us. You may drop us a line, give us a call or send an email, choose what suits you the most.</p>
+                        <!--<a href="#" class="btn fancy-btn">Work with us</a>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--CTA Area End ***** -->
+
+    <!-- ***** Breadcumb Area Start ***** 
+    <div class="fancy-cta-area bg-img bg-overlay section-padding-80" style="background-image: url(img/contact.jpg);">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <div class="cta-content text-center">
+                        <h2>Contact Us</h2>
+                        <p>Tell us about your story and your project.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    ***** Breadcumb Area End ***** -->
+
+    <!-- ***** Contact Area Start ***** -->
+    <section id="contact">
+
+        <div class="fancy-contact-area section-padding-100">
+        <div class="container">
+                <!--
+                    <div class="row">
+                    <div class="col-12">
+                    
+                        <div id="googleMap"></div>
+
+                        
+                    </div>
+                </div>
+                -->
+                
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <!-- Contact Details -->
+                        <div class="contact-details-area">
+                            <div class="section-heading">
+                                <h2>Contact Us</h2>
+                                <p>There are many ways to contact us. You may drop us a line, give us a call or send an email, choose what suits you the most.</p>
+                            </div>
+                            <p>0484 - 4050065 <br> <i class="fa fa-envelope" aria-hidden="true"></i> info@kefas.in
+                            </p>
+                            <p>First Floor, Seawood Ornate, <br> Adarsh Junction, CSEZ PO <br>
+                            Kakkanad, Kochi - 682 037 <br></p>
+                            
+                            <p>
+                               <a href="https://goo.gl/maps/XnW53RFUHZqK5Dww6" target="_blank"> <i class="fa fa-map-marker" aria-hidden="true"></i> Show Map </a>
+                            </p>
+
+                        </div>
+                        <!-- Follow Us -->
+                        <div class="follow-us-area">
+                            <h3>Follow Us:</h3>
+                            <a href="https://www.facebook.com/kefassoftwares" class="facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a href="https://twitter.com/kefassoftwares" class="twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                            <a href="https://github.com/TeamKefas/" class="github" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                            <!--<a href="#" class="google-plus"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                            <a href="#" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>-->
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!-- ***** Contact Area End ***** -->
+
+    
+
+    <!-- ***** Footer Area Start ***** -->
+    <footer class="fancy-footer-area fancy-bg-dark">
+    <!--
+        <div class="footer-content section-padding-80-50">
+            <div class="container">
+                <div class="row">                    
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget">
+                            <h6>Our Newsletter</h6>
+                            <p>Subscribe to our mailing list to get the updates to your email inbox.</p>
+                            <form action="#" method="get">
+                                <input type="search" name="search" id="footer-search" placeholder="E-mail">
+                                <button type="submit">Subscribe</button>
+                            </form>
+                            <div class="footer-social-widegt d-flex align-items-center">
+                                <a href="https://www.facebook.com/kefassoftwares"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="https://twitter.com/kefassoftwares"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget">
+                            <h6>Twitter Feed</h6>
+                            <div class="single-tweet">
+                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i> With the popularity of podcast shows growing with each year, you might consider starting it yourself as well. <br>https://buff.ly/2zttoJb </a>
+                                <span>About 20 hours ago</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget">
+                            <h6>Link Categories</h6>
+                            <nav>
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Agency</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Home</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Studio</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> About</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Studio</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Services</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Blogs</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Work</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Shop</a></li>
+                                    <li><a href="#"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Privacy</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget">
+                            <h6>Contact Us</h6>
+                            <p>1 (800) 686-6688 <br>info.deercreative@gmail.com
+                            </p>
+                            <p>40 Baria Sreet 133/2 <br>NewYork City, US</p>
+                            <p>Open hours: 8.00-18.00 Mon-Fri</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+        <!-- Footer Copywrite -->
+        <div class="footer-copywrite-area">
+            <div class="container ">
+                <div class="row ">
+
+                    
+                    <div class="col-12 "> 
+                                        
+                        <div class="copywrite-content  d-flex align-items-center justify-content-between">
+
+                            <div class="navbar-brand">
+                                    <a href="index.php">
+                                        <!--<img class="logo" src="img/logo.png" alt="logo">-->
+                                        <img class="logo-alt" src="img/logo-alt.png" alt="logo">
+                                    </a>
+                            </div> 
+                            <!-- Copywrite Text -->
+                            <div class="copywrite-text">
+                                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                            </div>
+                            <!-- Footer Nav -->
+                            <div class="footer-nav">
+                                <nav>
+                                    <ul>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="#about">About</a></li>
+                                        <li><a href="#contact">Contact us</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <!--
+                                <div class="footer-social-widegt d-flex align-items-center">
+                                <a href="https://www.facebook.com/kefassoftwares"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="https://twitter.com/kefassoftwares"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+                            </div>
+                            -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ***** Footer Area End ***** -->
+
+    <!-- ==============================================
+JS
+=============================================== -->
+<script type="text/javascript">
+  function showMessage()
+  {
+     var submissionMessage = document.getElementById("submissionMessage");
+     var name = document.getElementById("name");
+     var phone = document.getElementById("phone");
+     var message = document.getElementById("message");
+     var email = document.getElementById("email");
+   
+     if(name.value && phone.value && message.value && isValidEmail(email.value))
+     {
+          submissionMessage.style.visibility = "visible";
+     }
+     setTimeout(function(){ submissionMessage.style.visibility = "hidden"; }, 10000);
+  }
+
+function isValidEmail(email) 
+{
+    var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+    return re.test(email);
+}
+</script>
+
+    <!-- jQuery-2.2.4 js -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap-4 js -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="js/others/plugins.js"></script>
+    <!-- Active JS -->    
+    <script src="js/active.js"></script>
+</body>
