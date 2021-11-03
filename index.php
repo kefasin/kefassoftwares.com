@@ -599,3 +599,4 @@ function isValidEmail(email)
     <!-- Active JS -->    
     <script src="js/active.js"></script>
 </body>
+</html>
