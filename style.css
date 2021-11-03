@@ -2,6 +2,7 @@
 ***** [Core Stylesheet - v1.0] *****
 ================================= */
 
+
 /* ----------------------------------------------
 :: Template Name: Fancy - Creative Agency Template
 :: Template Author: Colorlib
@@ -10,14 +11,19 @@
 :: Last Updated: 12-08-2017
 ---------------------------------------------- */
 
+
 /* ***** [Fonts: Popins + Playfair Display] ***** */
 
+
 /*@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Quicksand:300,400,500,600,700');*/
+
 
 /* @import url('https://fonts.googleapis.com/css?family=Merriweather+Sans|Merriweather:300,400,500,600,700'); */
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700&display=swap');
+
 /* @import url('https://fonts.googleapis.com/css?family=Merriweather+Sans&display=swap'); */
+
 
 /* ***** Import All CSS ***** */
 
@@ -58,6 +64,7 @@ h6 {
     line-height: 1.25;
 }
 
+
 /* p {
     font-family: 'Merriweather Sans', sans-serif;
     color: #0b0e1a;
@@ -90,8 +97,7 @@ a:active {
     outline: none;
 }
 
-a:hover
-{
+a:hover {
     text-decoration: underline;
 }
 
@@ -117,6 +123,7 @@ li {
 .playfair-font {
     font-family: 'Playfair Display', serif;
 }
+
 
 /* Preloader CSS */
 
@@ -183,6 +190,7 @@ li {
 .loader .inner3 {
     -webkit-animation-delay: 0.375s;
 }
+
 
 /* Basic CSS */
 
@@ -376,6 +384,7 @@ li {
     color: #fff;
 }
 
+
 /* Header Area CSS */
 
 #header-sticky-wrapper {
@@ -407,6 +416,7 @@ li {
     border-bottom: 1px solid transparent;
 }
 
+
 /* .header_area .navbar-brand {
     padding: 0;
     margin-right: 0;
@@ -431,12 +441,12 @@ li {
     margin-left: 65px;
 }
 
-.fancy-search-and-shop-area > a {
+.fancy-search-and-shop-area>a {
     font-size: 16px;
     color: #fff;
 }
 
-.fancy-search-and-shop-area > a:first-child {
+.fancy-search-and-shop-area>a:first-child {
     margin-right: 30px;
 }
 
@@ -479,6 +489,7 @@ li {
     z-index: 1;
 }
 
+
 /* hero area css */
 
 .fancy-hero-area {
@@ -488,7 +499,7 @@ li {
     height: 900px;
 }
 
-.video-overview > a {
+.video-overview>a {
     color: #fff;
     position: relative;
     z-index: 1;
@@ -498,7 +509,7 @@ li {
     display: inline-block;
 }
 
-.video-overview > a:after {
+.video-overview>a:after {
     background-color: #fff;
     width: calc(100% - 45px);
     right: -1px;
@@ -509,7 +520,7 @@ li {
     height: 2px;
 }
 
-.video-overview > a > i {
+.video-overview>a>i {
     width: 30px;
     height: 30px;
     text-align: center;
@@ -556,6 +567,7 @@ li {
     }
 }
 
+
 /* Top Features Area CSS */
 
 .fancy-top-features-area {
@@ -577,7 +589,7 @@ li {
 
 .single-top-feature {
     padding: 26px;
-    background-color: #fff;    
+    background-color: #fff;
     display: table-cell;
     position: relative;
     z-index: 1;
@@ -607,6 +619,7 @@ li {
     color: #2bc0a4;
 }
 
+
 /* About Us Area CSS */
 
 .fancy-about-us-area {
@@ -614,22 +627,23 @@ li {
     padding-bottom: 100px;
 }
 
-.about-us-text > h2 {
+.about-us-text>h2 {
     font-size: 38px;
     margin-bottom: 25px;
 }
 
-.about-us-text > p {
+.about-us-text>p {
     line-height: 1.8
 }
 
-.about-us-text > p:last-of-type {
+.about-us-text>p:last-of-type {
     margin-bottom: 35px;
 }
 
-.about-us-thumb > img {
+.about-us-thumb>img {
     border-radius: 5px;
 }
+
 
 /* Skills Area CSS */
 
@@ -701,6 +715,7 @@ li {
     margin-bottom: 5px;
 }
 
+
 /* Service Area CSS */
 
 .single-service-area {
@@ -735,6 +750,7 @@ li {
     -webkit-transform: scale(1.2);
     transform: scale(1.2)
 }
+
 
 /* Testimonials Area CSS */
 
@@ -810,6 +826,7 @@ li {
     right: -4%;
 }
 
+
 /* CTA Area CSS */
 
 .cta-content h2 {
@@ -817,13 +834,13 @@ li {
     color: #fff;
     margin-bottom: 10px;
 }
+
 .cta-content h3 {
-    
     color: #fff;
     margin-bottom: 10px;
 }
+
 .cta-content h4 {
-    
     color: #fff;
     margin-bottom: 10px;
 }
@@ -832,6 +849,7 @@ li {
     color: #fff;
     margin-bottom: 30px;
 }
+
 
 /* Blog Area CSS */
 
@@ -858,7 +876,7 @@ li {
     color: #232d37;
 }
 
-.blog-content > a {
+.blog-content>a {
     display: block;
     font-size: 14px;
     text-transform: capitalize;
@@ -867,9 +885,10 @@ li {
     font-weight: 400;
 }
 
-.blog-content > a:hover {
+.blog-content>a:hover {
     color: #7450fe;
 }
+
 
 /* Footer Area CSS */
 
@@ -883,7 +902,7 @@ li {
     font-weight: 600;
 }
 
-.single-footer-widget > p {
+.single-footer-widget>p {
     color: #b5aec4;
     font-weight: 300;
 }
@@ -893,7 +912,7 @@ li {
     z-index: 1;
 }
 
-.single-footer-widget form > input {
+.single-footer-widget form>input {
     width: 100%;
     height: 40px;
     padding: 0 15px;
@@ -904,7 +923,7 @@ li {
     font-size: 12px;
 }
 
-.single-footer-widget form > button {
+.single-footer-widget form>button {
     padding: 5px 15px;
     border: none;
     position: absolute;
@@ -926,7 +945,7 @@ li {
     margin-top: 30px;
 }
 
-.footer-social-widegt > a {
+.footer-social-widegt>a {
     color: #2bc0a4;
     font-size: 14px;
     -webkit-box-flex: 1;
@@ -934,7 +953,7 @@ li {
     flex: 1;
 }
 
-.footer-social-widegt > a:hover {
+.footer-social-widegt>a:hover {
     color: #7450fe;
 }
 
@@ -946,7 +965,7 @@ li {
     line-height: 1.9;
 }
 
-.single-tweet a > i {
+.single-tweet a>i {
     color: #2bc0a4;
 }
 
@@ -985,7 +1004,7 @@ li {
     margin: 0;
 }
 
-.copywrite-text p > a {
+.copywrite-text p>a {
     font-weight: 300;
     color: #b5aec4;
 }
@@ -1002,6 +1021,7 @@ li {
     display: block;
     padding: 0 20px;
 }
+
 
 /* Breadcumb Area CSS */
 
@@ -1027,6 +1047,7 @@ li {
     margin-bottom: 0;
 }
 
+
 /* Google Map */
 
 #googleMap {
@@ -1044,7 +1065,7 @@ li {
     margin-bottom: 25px;
 }
 
-.follow-us-area > a {
+.follow-us-area>a {
     width: 40px;
     height: 40px;
     display: inline-block;
@@ -1056,23 +1077,23 @@ li {
     margin-right: 10px;
 }
 
-.contact-details-area > p {
+.contact-details-area>p {
     font-size: 16px;
 }
 
-.follow-us-area > a.facebook {
+.follow-us-area>a.facebook {
     background-color: #3a61c9;
 }
 
-.follow-us-area > a.twitter {
+.follow-us-area>a.twitter {
     background-color: #41a1f6;
 }
 
-.follow-us-area > a.google-plus {
+.follow-us-area>a.google-plus {
     background-color: #fb4343;
 }
 
-.follow-us-area > a.instagram {
+.follow-us-area>a.instagram {
     background-color: #8f6247;
 }
 
@@ -1103,9 +1124,10 @@ li {
     color: #fff;
 }
 
+
 /* Blog Page CSS */
 
-.single-post-share-info > a {
+.single-post-share-info>a {
     width: 30px;
     height: 30px;
     display: block;
@@ -1118,23 +1140,23 @@ li {
     color: #fff;
 }
 
-.single-post-share-info > a.facebook {
+.single-post-share-info>a.facebook {
     background-color: #4c65a8;
 }
 
-.single-post-share-info > a.twitter {
+.single-post-share-info>a.twitter {
     background-color: #4c65a8;
 }
 
-.single-post-share-info > a.googleplus {
+.single-post-share-info>a.googleplus {
     background-color: #f43535;
 }
 
-.single-post-share-info > a.instagram {
+.single-post-share-info>a.instagram {
     background-color: #8f6247;
 }
 
-.single-post-share-info > a.pinterest {
+.single-post-share-info>a.pinterest {
     background-color: #f0c605;
 }
 
@@ -1142,7 +1164,7 @@ li {
     margin-bottom: 30px;
 }
 
-.post-content > p {
+.post-content>p {
     font-size: 16px;
 }
 
@@ -1194,12 +1216,12 @@ li {
     line-height: 1.5;
 }
 
-.post-contents > a.post-date {
+.post-contents>a.post-date {
     font-size: 14px;
     color: #b5aec4;
 }
 
-.categories-widget ul > li > a {
+.categories-widget ul>li>a {
     color: #1e1e27;
     font-weight: 400;
     display: -webkit-box;
@@ -1210,13 +1232,13 @@ li {
     align-items: center;
 }
 
-.categories-widget ul > li > a > i {
+.categories-widget ul>li>a>i {
     font-size: 8px;
     color: #2bc0a4;
     margin-right: 10px;
 }
 
-.tags-widget > a {
+.tags-widget>a {
     background-color: #ebebeb;
     padding: 10px 15px 7px;
     display: inline-block;
@@ -1227,7 +1249,7 @@ li {
     line-height: 1;
 }
 
-.tags-widget > a:hover {
+.tags-widget>a:hover {
     background-color: #7450fe;
     color: #fff;
 }
@@ -1241,17 +1263,18 @@ li {
     padding: 0;
 }
 
-.navbar-brand .logo, .navbar-brand .logo-alt {
+.navbar-brand .logo,
+.navbar-brand .logo-alt {
     max-height: 30px;
     display: block;
 }
 
 #nav:not(.nav-transparent):not(.fixed-nav) .navbar-brand .logo-alt {
-	display: none;
+    display: none;
 }
 
 #nav.nav-transparent:not(.fixed-nav) .navbar-brand .logo {
-	display: none;
+    display: none;
 }
 
 #nav.fixed-nav .navbar-brand .logo-alt {
@@ -1267,6 +1290,7 @@ li {
     }
 }
 
+
 /*------------------------------------*\
 	Logo-Home
 \*------------------------------------*/
@@ -1275,7 +1299,7 @@ li {
     padding: 0;
 }
 
-.navbar-brand-logo .logo-home{
+.navbar-brand-logo .logo-home {
     max-height: 80px;
     display: block;
     margin-left: auto;
@@ -1291,21 +1315,23 @@ li {
     align-self: center;
 }
 
-
 .row.is-flex {
     display: flex;
     flex-wrap: wrap;
 }
-.row.is-flex > [class*='col-'] {
+
+.row.is-flex>[class*='col-'] {
     display: flex;
     flex-direction: column;
 }
+
 
 /*
 * And with max cross-browser enabled.
 * Nobody should ever write this by hand. 
 * Use a preprocesser with autoprefixing.
 */
+
 .row.is-flex {
     display: -webkit-box;
     display: -webkit-flex;
@@ -1316,7 +1342,7 @@ li {
     flex-wrap: wrap;
 }
 
-.row.is-flex > [class*='col-'] {
+.row.is-flex>[class*='col-'] {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -1328,6 +1354,7 @@ li {
     flex-direction: column;
 }
 
+
 /*------------------------------------*\
 	Logo-footer
 \*------------------------------------*/
@@ -1336,17 +1363,18 @@ li {
     padding: 0;
 }
 
-.navbar-brand-footer .logo, .navbar-brand-footer .logo-alt {
+.navbar-brand-footer .logo,
+.navbar-brand-footer .logo-alt {
     max-height: 30px;
     display: block;
 }
 
 #nav:not(.nav-transparent):not(.fixed-nav) .navbar-brand-footer .logo-alt {
-	display: none;
+    display: none;
 }
 
 #nav.nav-transparent:not(.fixed-nav) .navbar-brand-footer .logo {
-	display: none;
+    display: none;
 }
 
 #nav.fixed-nav .navbar-brand-footer .logo-alt {

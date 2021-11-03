@@ -1,4 +1,4 @@
-(function ($) {
+(function($) {
     'use strict';
 
     // Testimonials Slides Active Code
@@ -13,9 +13,9 @@
             navText: ['<i class="ti-angle-left"></i>', '<i class="ti-angle-right"></i>']
         })
     }
-    
+
     // Search Btn Active Code
-    $('#search-btn, #closeBtn').on('click', function () {
+    $('#search-btn, #closeBtn').on('click', function() {
         $('body').toggleClass('search-form-on');
     });
 
@@ -71,7 +71,7 @@
     }
 
     // PreventDefault a Click
-    $("a[href='#']").on('click', function ($) {
+    $("a[href='#']").on('click', function($) {
         $.preventDefault();
     });
 
@@ -88,8 +88,8 @@
     var $window = $(window);
 
     // Preloader active code
-    $window.on('load', function () {
-        $('#preloader').fadeOut('slow', function () {
+    $window.on('load', function() {
+        $('#preloader').fadeOut('slow', function() {
             $(this).remove();
         });
     });

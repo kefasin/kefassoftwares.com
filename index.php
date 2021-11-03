@@ -37,12 +37,12 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12"> -->
-                    <!-- Close Btn -->
-                    <!-- <div class="search-close-btn" id="closeBtn">
+    <!-- Close Btn -->
+    <!-- <div class="search-close-btn" id="closeBtn">
                         <i class="ti-close" aria-hidden="true"></i>
                     </div> -->
-                    <!-- Form -->
-                    <!-- <form action="#" method="get">
+    <!-- Form -->
+    <!-- <form action="#" method="get">
                         <input type="search" name="fancySearch" id="search" placeholder="| Enter Your Search...">
                         <input type="submit" class="d-none" value="submit">
                     </form>
@@ -62,8 +62,10 @@
                                 <!--<img class="logo" src="img/logo.png" alt="logo">-->
                                 <img class="logo-alt" src="img/logo-alt.png" alt="logo">
                             </a>
-					    </div>
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fancyNav" aria-controls="fancyNav" aria-expanded="false" aria-label="Toggle navigation"><span class="ti-menu"></span></button>
+                        </div>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fancyNav"
+                            aria-controls="fancyNav" aria-expanded="false" aria-label="Toggle navigation"><span
+                                class="ti-menu"></span></button>
                         <div class="collapse navbar-collapse" id="fancyNav">
                             <ul class="navbar-nav ml-auto">
                                 <li class="nav-item active">
@@ -111,12 +113,12 @@
                                 <img class="logo-home" src="img/kefas2.gif" alt="logo">
                                 <img class="logo-home-alt" src="img/logo-alt.png" alt="logo">
                             </a>
-					    </div>
+                        </div>
                         <h2>Get started, go live, ramp up, grow and expand</h2>
 
                         <!--<a href="#" class="btn fancy-btn fancy-active">About Us</a>
                         <a href="#" class="btn fancy-btn">Get Started!</a>-->
-                        
+
                     </div>
                 </div>
             </div>
@@ -125,7 +127,7 @@
     <!-- ***** Hero Area End ***** -->
 
     <!-- ***** Top Feature Area Start ***** -->
-    <div  class="fancy-top-features-area bg-gray">
+    <div class="fancy-top-features-area bg-gray">
         <div class="container">
             <div class="row is-flex">
                 <div class="col-12">
@@ -134,31 +136,31 @@
                             <div class="col-12  col-sm-4">
                                 <div class="single-top-feature">
                                     <h5><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> <b>What do we do</b></h5>
-                                    <p>Kefas addresses your needs to 
-                                    rapidly and reliably implement your ideas 
-                                    on core desktop applications, enterprise 
-                                    systems or web backend systems.
-                                </p>
-                                
+                                    <p>Kefas addresses your needs to
+                                        rapidly and reliably implement your ideas
+                                        on core desktop applications, enterprise
+                                        systems or web backend systems.
+                                    </p>
+
                                 </div>
                             </div>
                             <div class="col-12  col-sm-4">
                                 <div class="single-top-feature">
                                     <h5><i class="fa fa-clock-o" aria-hidden="true"></i> <b>Expertise</b></h5>
-                                    <p>We have expertise in multiple technologies 
-                                    including C++, C#, Python, R, MySQL, SQL Server,
-                                     PostgreSQL etc. We focus on building high throughput low latency systems.
-                                    
-                                    </p>  
+                                    <p>We have expertise in multiple technologies
+                                        including C++, C#, Python, R, MySQL, SQL Server,
+                                        PostgreSQL etc. We focus on building high throughput low latency systems.
+
+                                    </p>
                                 </div>
                             </div>
                             <div class="col-12 col-sm-4">
                                 <div class="single-top-feature">
                                     <h5><i class="fa fa-diamond" aria-hidden="true"></i> <b>Quality </b></h5>
-                                    <p>Kefas engineers are trained to rapidly 
-                                    acquire domain knowledge, even if new and complex,
-                                     to execute the best possible solutions for clients.
-                                      </p>
+                                    <p>Kefas engineers are trained to rapidly
+                                        acquire domain knowledge, even if new and complex,
+                                        to execute the best possible solutions for clients.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -176,15 +178,16 @@
                 <div class="col-12 col-lg-6">
                     <div class="about-us-text">
                         <h3>About Us</h3>
-                        <p>Kefas Softwares Private Limited was founded in 2013 to 
-							create server side applications for clients, and so far 
-							we have helped many start-ups in the financial and engineering
-							 sector start or ramp up their operations. Founded by a highly 
-							 qualified team of engineers from some of the best engineering 
-							 institutions in India, with experience in varied domains, 
-							 we believe in always-on service and in standing by our clients to address 
-							 their most critical maintenance needs, as and when they need them. The one 
-							 thing we have the most in common with our clients, is a passion for innovation and excellence.
+                        <p>Kefas Softwares Private Limited was founded in 2013 to
+                            create server side applications for clients, and so far
+                            we have helped many start-ups in the financial and engineering
+                            sector start or ramp up their operations. Founded by a highly
+                            qualified team of engineers from some of the best engineering
+                            institutions in India, with experience in varied domains,
+                            we believe in always-on service and in standing by our clients to address
+                            their most critical maintenance needs, as and when they need them. The one
+                            thing we have the most in common with our clients, is a passion for innovation and
+                            excellence.
                         </p>
                         <!--<a href="#" class="btn fancy-btn fancy-dark">Read More</a>-->
                     </div>
@@ -202,56 +205,60 @@
 
 
     <!-- ***** Blog Area Start ***** -->
-    
+
     <section id="portfolio" class="fancy-blog-area section-padding-100-70">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="section-heading text-center">
                         <h2>Featured Clients</h2>
-                        
+
                     </div>
                 </div>
             </div>
 
-            
-                <div class="row">
-                
+
+            <div class="row">
+
                 <div class="col-12 col-md-6">
                     <div class="single-blog-area wow fadeInUp" data-wow-delay="0.5s">
                         <img src="img/qnect1.jpg" alt="">
                         <div class="blog-content">
                             <h4><a href="http://www.qnect.com/" target="_blank">Qnect</a></h4>
-                            <p>Qnect is creating a revolution in the construction industry with their ground 
-                            breaking cloud based solution, which automatically engineers/details connections between 
-                            structural elements (beams, girders etc), to generate the most appropriate connection element(shear plate, double angles etc..)
+                            <p>Qnect is creating a revolution in the construction industry with their ground
+                                breaking cloud based solution, which automatically engineers/details connections between
+                                structural elements (beams, girders etc), to generate the most appropriate connection
+                                element(shear plate, double angles etc..)
                             </p>
-                            <p>A small team of Kefas engineers helps Qnect by playing an integral role in 
-                                creating the core engineering application in their enterprise system. 
-                                Kefas engineers works closely with strutural engineers from Qnect to 
-                                translate their strong domain knowledge in structural engineering to the actual application.
-                                
+                            <p>A small team of Kefas engineers helps Qnect by playing an integral role in
+                                creating the core engineering application in their enterprise system.
+                                Kefas engineers works closely with strutural engineers from Qnect to
+                                translate their strong domain knowledge in structural engineering to the actual
+                                application.
+
                             </p>
                             <a href="http://www.qnect.com/" target="_blank">Read more</a>
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="col-12 col-md-6">
                     <div class="single-blog-area wow fadeInUp" data-wow-delay="0.6s">
                         <img src="img/bestex.jpg" alt="">
                         <div class="blog-content">
                             <h4><a href="http://www.bestexresearch.com/" target="_blank">BestEx Research</a></h4>
                             <p>BestEx Research Group provide institutional investor clients with
-										 solutions that help minimize their implementation and transaction
-										  costs by employing advanced broker-dealer neutral algorithms, 
-										  precise cost measurements and cutting-edge trading technology.
-										   These technologies help reduce the clients' transaction costs
-											and provide them with a level of transparency and analytics 
-											unmatched in the industry. Kefas with its strong background in trading and financial coding,
-										 play an integral role in developing their trading and market data 
-										 technologies and backend system.
-                                         <br><br></p>
+                                solutions that help minimize their implementation and transaction
+                                costs by employing advanced broker-dealer neutral algorithms,
+                                precise cost measurements and cutting-edge trading technology.
+                                These technologies help reduce the clients' transaction costs
+                                and provide them with a level of transparency and analytics
+                                unmatched in the industry. Kefas with its strong background in trading and financial
+                                coding,
+                                play an integral role in developing their trading and market data
+                                technologies and backend system.
+                                <br><br>
+                            </p>
                             <a href="http://www.bestexresearch.com/" target="_blank">Read more</a>
                         </div>
                     </div>
@@ -259,59 +266,59 @@
             </div>
 
             <div class="row">
-               
+
                 <div class="col-12 col-md-6">
                     <div class="single-blog-area wow fadeInUp" data-wow-delay="0.7s">
                         <img src="img/dqs.jpg" alt="">
                         <div class="blog-content">
                             <h4><a href="http://dqs.ch/" target="_blank">DQS Analytics</a></h4>
-                            <p>DQS Analytics provides clients with niche products and 
-                                innovative solutions in investment strategy and risk management 
+                            <p>DQS Analytics provides clients with niche products and
+                                innovative solutions in investment strategy and risk management
                                 of global multi-asset portfolios. Using a blend of deep market
-                                    experience and advanced quantitative methods, the services provided 
-                                    by DQS are geared towards robust, through-the-cycle, long term performance 
-                                    with particular attention paid towards market and portfolio dynamics in crisis
-                                    periods.</p>
+                                experience and advanced quantitative methods, the services provided
+                                by DQS are geared towards robust, through-the-cycle, long term performance
+                                with particular attention paid towards market and portfolio dynamics in crisis
+                                periods.</p>
 
                             <p>From market data collection to automated trading platform to
-                                    portfolio optimization algorithms, Kefas with its strong 
-                                    knowledge of financial domain, plays an integral role in 
-                                    developing technology infrastructure for DQS Analytics.
-                                    </p>
+                                portfolio optimization algorithms, Kefas with its strong
+                                knowledge of financial domain, plays an integral role in
+                                developing technology infrastructure for DQS Analytics.
+                            </p>
                             <a href="http://dqs.ch/" target="_blank">Read more</a>
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="col-12 col-md-6">
                     <div class="single-blog-area wow fadeInUp" data-wow-delay="0.8s">
                         <img src="img/optionautomator.jpg" alt="">
                         <div class="blog-content">
                             <h4><a href="https://www.optionautomator.com/" target="_blank">Option Automator</a></h4>
-                            <p>Option Automator aims to provide retail clients with hedge-fund quality 
+                            <p>Option Automator aims to provide retail clients with hedge-fund quality
                                 options trading tools that give individuals with the same competitive
-                                    edge currently available only to large scale traders</p>
+                                edge currently available only to large scale traders</p>
 
                             <p>A team of Kefas engineers helps Option Automator by playing
-                                    an integral role in creating their 'Brutus' options screener,
-                                    which sets itself apart from other options screeners by focusing
-                                    on complex ranking algorithms rather than on binary filtering.
-                                    Kefas engineers work closely with the OptionAutomator team to 
-                                    create their backend application server that implements their 
-                                    advance decision making mathematics.</p>
+                                an integral role in creating their 'Brutus' options screener,
+                                which sets itself apart from other options screeners by focusing
+                                on complex ranking algorithms rather than on binary filtering.
+                                Kefas engineers work closely with the OptionAutomator team to
+                                create their backend application server that implements their
+                                advance decision making mathematics.</p>
 
                             </br>
-                        
+
                             <a href="https://www.optionautomator.com/" target="_blank">Read more</a>
                         </div>
                     </div>
                 </div>
             </div>
-            
-            
+
+
         </div>
     </section>
-    
+
     <!-- ***** Blog Area End ***** -->
 
     <!-- Our clients area 
@@ -360,16 +367,18 @@
 
     
    our clients area end -->
-    
+
 
     <!-- ***** CTA Area Start -->
-    <section class="fancy-cta-area bg-img bg-overlay section-padding-100" style="background-image: url(img/bg-img/hero-3.jpg)">
+    <section class="fancy-cta-area bg-img bg-overlay section-padding-100"
+        style="background-image: url(img/bg-img/hero-3.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="cta-content text-center">
                         <h2>Ready To Discuss Your Project?</h2>
-                        <p>There are many ways to contact us. You may drop us a line, give us a call or send an email, choose what suits you the most.</p>
+                        <p>There are many ways to contact us. You may drop us a line, give us a call or send an email,
+                            choose what suits you the most.</p>
                         <!--<a href="#" class="btn fancy-btn">Work with us</a>-->
                     </div>
                 </div>
@@ -397,7 +406,7 @@
     <section id="contact">
 
         <div class="fancy-contact-area section-padding-100">
-        <div class="container">
+            <div class="container">
                 <!--
                     <div class="row">
                     <div class="col-12">
@@ -408,36 +417,41 @@
                     </div>
                 </div>
                 -->
-                
+
                 <div class="row">
                     <div class="col-12 col-md-6">
                         <!-- Contact Details -->
                         <div class="contact-details-area">
                             <div class="section-heading">
                                 <h2>Contact Us</h2>
-                                <p>There are many ways to contact us. You may drop us a line, give us a call or send an email, choose what suits you the most.</p>
+                                <p>There are many ways to contact us. You may drop us a line, give us a call or send an
+                                    email, choose what suits you the most.</p>
                             </div>
                             <p>0484 - 4050065 <br> <i class="fa fa-envelope" aria-hidden="true"></i> info@kefas.in
                             </p>
                             <p>First Floor, Seawood Ornate, <br> Adarsh Junction, CSEZ PO <br>
-                            Kakkanad, Kochi - 682 037 <br></p>
-                            
+                                Kakkanad, Kochi - 682 037 <br></p>
+
                             <p>
-                               <a href="https://goo.gl/maps/XnW53RFUHZqK5Dww6" target="_blank"> <i class="fa fa-map-marker" aria-hidden="true"></i> Show Map </a>
+                                <a href="https://goo.gl/maps/XnW53RFUHZqK5Dww6" target="_blank"> <i
+                                        class="fa fa-map-marker" aria-hidden="true"></i> Show Map </a>
                             </p>
 
                         </div>
                         <!-- Follow Us -->
                         <div class="follow-us-area">
                             <h3>Follow Us:</h3>
-                            <a href="https://www.facebook.com/kefassoftwares" class="facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                            <a href="https://twitter.com/kefassoftwares" class="twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                            <a href="https://github.com/kefasin/" class="github" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                            <a href="https://www.facebook.com/kefassoftwares" class="facebook" target="_blank"><i
+                                    class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a href="https://twitter.com/kefassoftwares" class="twitter" target="_blank"><i
+                                    class="fa fa-twitter" aria-hidden="true"></i></a>
+                            <a href="https://github.com/kefasin/" class="github" target="_blank"><i class="fa fa-github"
+                                    aria-hidden="true"></i></a>
                             <!--<a href="#" class="google-plus"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                             <a href="#" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>-->
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
         </div>
@@ -445,11 +459,11 @@
     </section>
     <!-- ***** Contact Area End ***** -->
 
-    
+
 
     <!-- ***** Footer Area Start ***** -->
     <footer class="fancy-footer-area fancy-bg-dark">
-    <!--
+        <!--
         <div class="footer-content section-padding-80-50">
             <div class="container">
                 <div class="row">                    
@@ -518,22 +532,28 @@
             <div class="container ">
                 <div class="row ">
 
-                    
-                    <div class="col-12 "> 
-                                        
+
+                    <div class="col-12 ">
+
                         <div class="copywrite-content  d-flex align-items-center justify-content-between">
 
                             <div class="navbar-brand">
-                                    <a href="index.php">
-                                        <!--<img class="logo" src="img/logo.png" alt="logo">-->
-                                        <img class="logo-alt" src="img/logo-alt.png" alt="logo">
-                                    </a>
-                            </div> 
+                                <a href="index.php">
+                                    <!--<img class="logo" src="img/logo.png" alt="logo">-->
+                                    <img class="logo-alt" src="img/logo-alt.png" alt="logo">
+                                </a>
+                            </div>
                             <!-- Copywrite Text -->
                             <div class="copywrite-text">
-                                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                                <p>
+                                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                    Copyright &copy;<script>
+                                    document.write(new Date().getFullYear());
+                                    </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
+                                        aria-hidden="true"></i> by <a href="https://colorlib.com"
+                                        target="_blank">Colorlib</a>
+                                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                </p>
                             </div>
                             <!-- Footer Nav -->
                             <div class="footer-nav">
@@ -562,31 +582,28 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     </footer>
     <!-- ***** Footer Area End ***** -->
 
-    <!-- ==============================================
-JS
-=============================================== -->
-<script type="text/javascript">
-  function showMessage()
-  {
-     var submissionMessage = document.getElementById("submissionMessage");
-     var name = document.getElementById("name");
-     var phone = document.getElementById("phone");
-     var message = document.getElementById("message");
-     var email = document.getElementById("email");
-   
-     if(name.value && phone.value && message.value && isValidEmail(email.value))
-     {
-          submissionMessage.style.visibility = "visible";
-     }
-     setTimeout(function(){ submissionMessage.style.visibility = "hidden"; }, 10000);
-  }
+    <!-- =====JS============ -->
+    <script type="text/javascript">
+    function showMessage() {
+        var submissionMessage = document.getElementById("submissionMessage");
+        var name = document.getElementById("name");
+        var phone = document.getElementById("phone");
+        var message = document.getElementById("message");
+        var email = document.getElementById("email");
 
-function isValidEmail(email) 
-{
-    var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
-    return re.test(email);
-}
-</script>
+        if (name.value && phone.value && message.value && isValidEmail(email.value)) {
+            submissionMessage.style.visibility = "visible";
+        }
+        setTimeout(function() {
+            submissionMessage.style.visibility = "hidden";
+        }, 10000);
+    }
+
+    function isValidEmail(email) {
+        var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+        return re.test(email);
+    }
+    </script>
 
     <!-- jQuery-2.2.4 js -->
     <script src="js/jquery/jquery-2.2.4.min.js"></script>
@@ -596,7 +613,8 @@ function isValidEmail(email)
     <script src="js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
     <script src="js/others/plugins.js"></script>
-    <!-- Active JS -->    
+    <!-- Active JS -->
     <script src="js/active.js"></script>
 </body>
+
 </html>
